@@ -1,7 +1,7 @@
 streamlit
 folium
 streamlit-folium
-requestspip
+requests
 pandas
 shapely
 streamlit-echarts
